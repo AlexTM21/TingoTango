@@ -1,5 +1,5 @@
 class TingoTango:
-    def textoTingoTango(self,numero):
+    def textoTingoTango(self, numero):
         s = ""
         if (numero % 3 == 0):
             s += "Tingo"
